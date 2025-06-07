@@ -101,7 +101,7 @@ By working with this project, you will understand:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/clsQueue_Library-cpp.git
+git clone https://github.com/your-username/clsQueue_Library-CPP.git
 cd clsQueue_Library-cpp
 ```
 2. **Build & run your test code (e.g., main.cpp):**
