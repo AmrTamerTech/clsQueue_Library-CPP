@@ -101,6 +101,17 @@ By working with this project, you will understand:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/MyQueue-Using-DoublyLinkedList.git
-cd MyQueue-Using-DoublyLinkedList
-
+git clone https://github.com/your-username/clsQueue_Library-cpp.git
+cd clsQueue_Library-cpp
+```
+2. **Build & run your test code (e.g., main.cpp):**
+```bash
+g++ main.cpp -o queueApp
+./queueApp
+```
+3. **Include the library in your own project:**
+Make sure to include the following headers:
+```bash
+#include "clsMyQueue.h"
+#include "clsDblLinkedList.h"
+```
