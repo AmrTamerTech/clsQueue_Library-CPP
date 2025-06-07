@@ -110,7 +110,6 @@ g++ main.cpp -o queueApp
 ./queueApp
 ```
 3. **Include the library in your own project:**
-###Make sure to include the following headers:
 ```bash
 #include "clsMyQueue.h"
 #include "clsDblLinkedList.h"
